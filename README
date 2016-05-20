@@ -1,0 +1,10 @@
+
+
+1.a app to exec command on server.
+2.client connect to server using socket.
+3.basic need is to exec command as a daemon.
+
+		by mingzhengying
+		2016 3 20
+
+
